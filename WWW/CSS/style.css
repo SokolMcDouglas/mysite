@@ -1,0 +1,132 @@
+body {
+    color: #222;
+    Background: linear-gradient(to right, #d1d1d1 20%,#ffffff 20% 80%, #d1d1d1 80%);
+}
+    body.dark-mode {
+        color: #EFEFF0;
+        background: linear-gradient(to right, #36323D 20%,#453F4D 20% 80%, #36323D 80%);
+    }
+
+header {
+    color: #222;
+    background-color: #eaeaea;
+}
+
+    header.dark-mode2 {
+        color: #eee;
+        background-color: #242222;
+    }
+footer {   
+    color: #222;
+    background-color: #eaeaea;
+}
+    footer.dark-mode1 {
+        color: #eee;
+        background-color: #242222;
+    }
+.bodycl {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.footcl {
+    position: absolute;
+    left: 20%;
+    bottom: -215%;
+    width: 60%;
+}
+.headcl {
+    position: absolute;
+    left: 20%;
+    top: 0;
+    width: 60%;
+}
+a {
+    color: #0033cc;
+}
+.tablep {
+    margin-left:4%;
+    margin-top: 20px;
+    line-height: 33px;
+    font-size: 18px;
+}
+.table1 {
+    border: medium solid;
+    border-collapse: collapse;
+    margin-left: 4%;
+}
+    .table1.dark-mode {
+        color: #EFEFF0;
+        background-color: #453F4D;
+        border-color: #7f7f7f;
+    }
+.c1f {
+    text-indent: 100px;
+    margin-top: 100px;
+    line-height: 33px;
+}
+.c1 {
+    text-indent: 100px;
+    margin-top: 20px;
+    line-height: 33px;
+}
+.f1{
+    margin-left: 30px;
+}
+.clist {
+    list-style-type: decimal;
+    line-height: 40px;
+}
+.flmdesc {
+}
+.cimg1 {
+    line-height: 15px;
+}
+.btn-toggle {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+.c1im {
+    margin-top: 92px;
+    line-height: 15px;
+}
+.c2 {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.ifr1 {
+    margin-top: 2%;
+    width: 80%;
+    height:550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ifr2 {
+    margin-top:2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.c3 {
+    text-align: center;
+    margin-top: 10%;
+}
+.sketchfab-embed-wrapper {
+    margin-top: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hedh{
+    text-align:center;
+}
+.c4 {
+    text-align: center;
+    margin-top: 2%;
+}
+.imgfilm{
+    width:9.5%;
+    height:9.5%;
+    float:left;
+}
