@@ -1,10 +1,10 @@
 ﻿body {
     color: #222;
-    Background: linear-gradient(to right, #d1d1d1 20%,#ffffff 20% 80%, #d1d1d1 80%);
+    Background: linear-gradient(to right, #d1d1d1 10%,#ffffff 10% 90%, #d1d1d1 90%);
 }
     body.dark-mode {
         color: #EFEFF0;
-        background: linear-gradient(to right, #36323D 20%,#453F4D 20% 80%, #36323D 80%);
+        background: linear-gradient(to right, #36323D 10%,#453F4D 10% 90%, #36323D 90%);
     }
 
 header {
@@ -25,20 +25,20 @@ footer {
         background-color: #242222;
     }
 .bodycl {
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .footcl {
     position: absolute;
-    left: 20%;
+    left: 10%;
     bottom: -215%;
-    width: 60%;
+    width: 80%;
 }
 .headcl {
     position: absolute;
-    left: 20%;
+    left: 10%;
     top: 0;
-    width: 60%;
+    width: 80%;
 }
 a {
     color: #0033cc;
