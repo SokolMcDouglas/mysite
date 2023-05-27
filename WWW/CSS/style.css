@@ -1,6 +1,7 @@
 ﻿
 *{
     font-size:1.5vh;
+}
 body {
     color: #222;
     Background: linear-gradient(to right, #d1d1d1 10%,#ffffff 10% 90%, #d1d1d1 90%);
