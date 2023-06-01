@@ -38,16 +38,17 @@ footer {
 }
 .footcl {
     padding-top:50px;
-    font-size:3vh;
+    font-size:1.5vh;
     position: absolute;
-    left: 9.52vw;
+    left: 9.55vw;
     bottom: 0;
     width: 80vw;
 }
 .headcl {
+    font-size:2.5vh;
     position: absolute;
-    left: 9.52vw;
-    top: 0;
+    left: 9.55vw;
+    top: 0%;
     width: 80vw;
 }
 a {
