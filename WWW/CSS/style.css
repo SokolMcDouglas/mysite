@@ -65,7 +65,7 @@ a {
 .table1 {
     border: medium solid;
     border-collapse: collapse;
-    margin-left: 2%;
+    margin-left: 0%;
 }
     .table1.dark-mode {
         color: #EFEFF0;
