@@ -57,7 +57,7 @@ a {
     color: #0033cc;
 }
 .tablep {
-    margin-left:4%;
+    margin-left:2%;
     margin-top: 20px;
     line-height: 33px;
     font-size: 18px;
@@ -65,7 +65,7 @@ a {
 .table1 {
     border: medium solid;
     border-collapse: collapse;
-    margin-left: 4%;
+    margin-left: 2%;
 }
     .table1.dark-mode {
         color: #EFEFF0;
