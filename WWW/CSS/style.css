@@ -29,20 +29,21 @@ footer {
         background-color: #242222;
     }
 .bodycl {
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-bottom:100px;
 }
 .footcl {
     position: absolute;
-    left: 10%;
-    bottom: -230%;
-    width: 80%;
+    left: 10vw;
+    bottom: 0;
+    width: 80vw;
 }
 .headcl {
     position: absolute;
-    left: 10%;
+    left: 10vw;
     top: 0;
-    width: 80%;
+    width: 80vw;
 }
 a {
     color: #0033cc;
