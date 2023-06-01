@@ -39,14 +39,14 @@ footer {
 }
 .footcl {
     padding-top:50px;
-    font-size:28px;
+    font-size:1.5vh;
     position: absolute;
     left: 9.6vw;
     bottom: -4%;
     width: 80vw;
 }
 .headcl {
-    font-size:2.5%;
+    font-size:28px;
     position: absolute;
     left: 9.6vw;
     top: -0.5%;
