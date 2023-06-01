@@ -46,6 +46,7 @@ footer {
     width: 80vw;
 }
 .headcl {
+	height:3vh;
     font-size:28px;
     position: absolute;
     left: 9.6vw;
