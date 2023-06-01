@@ -108,14 +108,14 @@ a {
 .ifr1 {
     margin-top: 2%;
     width:60vw;
-    height:100%;
+    height:60vmin;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .ifr2 {
     width:60vw;
-    height:100%;
+    height:60vmin;
     margin-top:2%;
     display: block;
     margin-left: auto;
@@ -127,7 +127,7 @@ a {
 }
 .sketchfab-embed-wrapper {
     width:60vw;
-    height:100%;
+    height:60vmin;
     margin-top: 2%;
     display: block;
     margin-left: auto;
