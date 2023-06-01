@@ -33,7 +33,8 @@ footer {
     padding-left: 10vw;
     padding-right: 10vw;
     padding-bottom:100px;
-    
+    position: relative;
+    min-height: 100%;
 }
 .footcl {
     padding-top:50px;
